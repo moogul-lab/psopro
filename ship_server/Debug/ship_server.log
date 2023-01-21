@@ -1,0 +1,26 @@
+﻿  ship_server.c
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(3,25): warning C4359: 'st_ptdata': Alignment specifier is less than actual alignment (2), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(48,25): warning C4359: 'st_weappmt': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(73,25): warning C4359: 'st_armorpmt': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(101,25): warning C4359: 'st_battleparam': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(120,25): warning C4359: 'st_playerLevel': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(135,25): warning C4359: 'st_mag': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(155,25): warning C4359: 'st_item': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(164,25): warning C4359: 'st_bank_item': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(173,25): warning C4359: 'st_bank': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(182,25): warning C4359: 'st_inventory_item': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(192,25): warning C4359: 'st_game_item': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(200,25): warning C4359: 'st_chardata': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(450,25): warning C4359: 'st_shopitem': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(459,25): warning C4359: 'st_shop': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\def_structs.h(474,25): warning C4359: 'st_mapmonster': Alignment specifier is less than actual alignment (4), and will be ignored.
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(400,10): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(697,15): warning C4476: 'printf' : unknown type field character ',' in format specifier
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(697,15): warning C4476: 'printf' : unknown type field character ')' in format specifier
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(1362,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(1824,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(14702,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(14702,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(14765,39): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\ship_server.c(14765,39): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ship_server.vcxproj -> C:\Users\jiyo\Desktop\Tethealla-master\src\ship_server\Debug\ship_server.exe

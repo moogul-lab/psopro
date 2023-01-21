@@ -1,0 +1,3 @@
+﻿  mtwist.c
+C:\Users\jiyo\Desktop\Tethealla-master\src\mtwist\mtwist.c(592,46): warning C4244: '=': conversion from '__time64_t' to 'unsigned long', possible loss of data
+  mtwist.vcxproj -> C:\Users\jiyo\Desktop\Tethealla-master\src\mtwist\Debug\mtwist.lib

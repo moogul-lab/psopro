@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb83f061-8262-489a-b804-637395b9f6f2": {
+      "ProjectGuid": "bb83f061-8262-489a-b804-637395b9f6f2",
+      "DisplayName": "ship_server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

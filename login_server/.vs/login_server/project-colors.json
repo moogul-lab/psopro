@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bd47319-9cfd-425b-a18c-fffa7ca1dcff": {
+      "ProjectGuid": "4bd47319-9cfd-425b-a18c-fffa7ca1dcff",
+      "DisplayName": "login_server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
